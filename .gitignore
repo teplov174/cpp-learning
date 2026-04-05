@@ -1,0 +1,10 @@
+# Скомпилированные файлы
+*.o
+*.exe
+*.out
+task1-grade/grade
+task1-grade/grade.exe
+
+# Временные файлы
+*.tmp
+*~
